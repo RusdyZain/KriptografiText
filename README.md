@@ -1,5 +1,4 @@
-Deskripsi Proyek:
-Repositori ini memuat implementasi sederhana dari kriptografi teks dengan menggunakan bahasa pemrograman C++. Proyek ini bertujuan untuk memberikan pemahaman tentang dasar-dasar kriptografi dan proses enkripsi sederhana. 
+<h1>Implementasi sederhana dari kriptografi teks dengan menggunakan bahasa pemrograman C++</h1>
 
 **Fitur Utama:**
 - **Enkripsi dan Dekripsi Teks**: Proyek ini memungkinkan pengguna untuk mengubah teks asli menjadi bentuk terenkripsi (ciphertext) dan mengembalikannya ke bentuk teks semula (plaintext) melalui proses dekripsi.
